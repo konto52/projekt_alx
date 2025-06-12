@@ -5,3 +5,5 @@ Trzecia linia
 Nowa gałąź develop
 master i devel ciąg dalszy.
 
+
+Update master
