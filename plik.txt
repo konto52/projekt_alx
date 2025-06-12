@@ -1,4 +1,5 @@
 Pierwszy wiersz poprawiany w master
+Pierwszy wiersz zmieniony w nowej_funkcji.
 Druga linia
 Trzecia linia
 
