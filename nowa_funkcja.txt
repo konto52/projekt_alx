@@ -1,2 +1,4 @@
 funkcja matematyczna
 x+y=345
+
+Ale super funkcja
