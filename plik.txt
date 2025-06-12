@@ -1,4 +1,4 @@
-Pierwsza linia
+Pierwszy wiersz poprawiany w master
 Druga linia
 Trzecia linia
 
