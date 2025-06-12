@@ -1,4 +1,4 @@
 funkcja matematyczna
-x+y=345
+x^2 + y*y= 6
 
 Ale super funkcja
