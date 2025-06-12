@@ -8,3 +8,4 @@ master i devel ciąg dalszy.
 
 
 Update master
+zmina
